@@ -17,6 +17,10 @@ make install
 
 [WebRTC data channels](https://www.html5rocks.com/en/tutorials/webrtc/datachannels/)
 
+[SCTP and webrtc](https://stackoverflow.com/questions/20076659/sctp-and-webrtc)
+
+[A Hitchhiker’s Guide to WebRTC standardization](https://webrtchacks.com/a-hitchhikers-guide-to-webrtc-standardization/)
+
 [ICE协议下NAT穿越的实现（STUN&TURN）](https://www.jianshu.com/p/84e8c78ca61d)
 
 [webrtc教程](https://blog.csdn.net/kl222/article/details/17198873)
